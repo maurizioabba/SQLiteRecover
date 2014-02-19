@@ -1,0 +1,3 @@
+inside first_test there is a table TEST(string varchar(10), number smallint)
+the table is filled with ("AAAAAAAAAA",10), ("BBBBBBBBBB", 20)
+
